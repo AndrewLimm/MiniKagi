@@ -23,3 +23,21 @@
 
 ![LegarBreaker GameOver](https://github.com/user-attachments/assets/e0e78f72-8a92-44a2-a027-3ca25faeed25)
 
+
+
+
+#Tampilan UI Game Biji-Biji
+
+![SUikaMainMenu](https://github.com/user-attachments/assets/392abc5c-db18-4427-8f02-375abc4c48f8)
+
+![Suika GamePlay](https://github.com/user-attachments/assets/1a68596a-6e88-4b99-900a-5c5135d1beaa)
+
+![Suika How toPlaye](https://github.com/user-attachments/assets/ce613d7b-e9a2-4fdd-8f8b-71cda7593987)
+
+![SUika LeaderBoard](https://github.com/user-attachments/assets/40ce0b2f-03bc-4503-8616-2641f2f819f0)
+
+![Suika Pause](https://github.com/user-attachments/assets/b888eeb3-abe9-42a5-9f72-65d08345cf6b)
+
+![SuikaGameOver](https://github.com/user-attachments/assets/81077a71-0449-4147-a9d4-93ed5e49ca17)
+
+
