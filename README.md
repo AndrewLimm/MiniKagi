@@ -1,2 +1,2 @@
 # MiniKagi
-Tampilan Sikta App MiniKagi
+Tampilan Singkat App MiniKagi
